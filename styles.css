@@ -1,0 +1,46 @@
+.navbar-dark .navbar-brand {
+    color: pink
+}
+.jumbotron img { "2.jpg";
+  margin: auto;
+  width: 40%;
+  height: 200px;
+}
+
+.jumbotron {
+    background-image: url("1.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+h1 {
+  color: pink;
+  font-size: 40px;
+  font-family: inherit;
+  font-weight: bold;
+  text-align: center;
+  text-shadow: 1px 1px 1px black;
+}
+
+h2 {
+  color: white;
+  font-size: 120px;
+  font-weight: bold;
+  font-family: 'Nosifer', cursive;
+  text-align: center;
+}
+
+h3 {
+text-align: center;
+}
+
+.jumbotron img { "3.jpg";
+  width: 40%;
+  height: 200px;
+  text-align: center;
+}
+
+.jumbotron img { "4.jpg";
+  width: 40%;
+  height: 200px;
+  text-align: center;
+}
